@@ -1,0 +1,6 @@
+encoder: clip_b32
+models:
+- B0
+- B1
+- B2
+split: val

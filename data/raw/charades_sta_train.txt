@@ -1,0 +1,120 @@
+TR_0000 2.00 7.50 ## person opens the refrigerator door
+TR_0001 6.00 11.20 ## person takes a glass from the cupboard
+TR_0002 10.50 16.80 ## person pours milk into the glass
+TR_0003 16.00 22.40 ## person sits down on the chair
+TR_0004 21.00 26.50 ## person drinks from the glass
+TR_0005 25.00 29.80 ## person stands up and walks away
+TR_0006 4.00 9.00 ## someone holds a book and smiles
+TR_0007 8.00 13.50 ## someone closes the wooden cabinet
+TR_0008 12.00 24.00 ## first person washes dishes and then wipes table
+TR_0009 15.00 19.50 ## person puts down the cup on the table
+TR_0010 1.00 8.00 ## a red towel hanging on the kitchen rack
+TR_0011 3.00 10.00 ## person looks around the living room
+TR_0012 2.00 7.50 ## person opens the refrigerator door
+TR_0013 6.00 11.20 ## person takes a glass from the cupboard
+TR_0014 10.50 16.80 ## person pours milk into the glass
+TR_0000 16.00 22.40 ## person sits down on the chair
+TR_0001 21.00 26.50 ## person drinks from the glass
+TR_0002 25.00 29.80 ## person stands up and walks away
+TR_0003 4.00 9.00 ## someone holds a book and smiles
+TR_0004 8.00 13.50 ## someone closes the wooden cabinet
+TR_0005 12.00 24.00 ## first person washes dishes and then wipes table
+TR_0006 15.00 19.50 ## person puts down the cup on the table
+TR_0007 1.00 8.00 ## a red towel hanging on the kitchen rack
+TR_0008 3.00 10.00 ## person looks around the living room
+TR_0009 2.00 7.50 ## person opens the refrigerator door
+TR_0010 6.00 11.20 ## person takes a glass from the cupboard
+TR_0011 10.50 16.80 ## person pours milk into the glass
+TR_0012 16.00 22.40 ## person sits down on the chair
+TR_0013 21.00 26.50 ## person drinks from the glass
+TR_0014 25.00 29.80 ## person stands up and walks away
+TR_0000 4.00 9.00 ## someone holds a book and smiles
+TR_0001 8.00 13.50 ## someone closes the wooden cabinet
+TR_0002 12.00 24.00 ## first person washes dishes and then wipes table
+TR_0003 15.00 19.50 ## person puts down the cup on the table
+TR_0004 1.00 8.00 ## a red towel hanging on the kitchen rack
+TR_0005 3.00 10.00 ## person looks around the living room
+TR_0006 2.00 7.50 ## person opens the refrigerator door
+TR_0007 6.00 11.20 ## person takes a glass from the cupboard
+TR_0008 10.50 16.80 ## person pours milk into the glass
+TR_0009 16.00 22.40 ## person sits down on the chair
+TR_0010 21.00 26.50 ## person drinks from the glass
+TR_0011 25.00 29.80 ## person stands up and walks away
+TR_0012 4.00 9.00 ## someone holds a book and smiles
+TR_0013 8.00 13.50 ## someone closes the wooden cabinet
+TR_0014 12.00 24.00 ## first person washes dishes and then wipes table
+TR_0000 15.00 19.50 ## person puts down the cup on the table
+TR_0001 1.00 8.00 ## a red towel hanging on the kitchen rack
+TR_0002 3.00 10.00 ## person looks around the living room
+TR_0003 2.00 7.50 ## person opens the refrigerator door
+TR_0004 6.00 11.20 ## person takes a glass from the cupboard
+TR_0005 10.50 16.80 ## person pours milk into the glass
+TR_0006 16.00 22.40 ## person sits down on the chair
+TR_0007 21.00 26.50 ## person drinks from the glass
+TR_0008 25.00 29.80 ## person stands up and walks away
+TR_0009 4.00 9.00 ## someone holds a book and smiles
+TR_0010 8.00 13.50 ## someone closes the wooden cabinet
+TR_0011 12.00 24.00 ## first person washes dishes and then wipes table
+TR_0012 15.00 19.50 ## person puts down the cup on the table
+TR_0013 1.00 8.00 ## a red towel hanging on the kitchen rack
+TR_0014 3.00 10.00 ## person looks around the living room
+TR_0000 2.00 7.50 ## person opens the refrigerator door
+TR_0001 6.00 11.20 ## person takes a glass from the cupboard
+TR_0002 10.50 16.80 ## person pours milk into the glass
+TR_0003 16.00 22.40 ## person sits down on the chair
+TR_0004 21.00 26.50 ## person drinks from the glass
+TR_0005 25.00 29.80 ## person stands up and walks away
+TR_0006 4.00 9.00 ## someone holds a book and smiles
+TR_0007 8.00 13.50 ## someone closes the wooden cabinet
+TR_0008 12.00 24.00 ## first person washes dishes and then wipes table
+TR_0009 15.00 19.50 ## person puts down the cup on the table
+TR_0010 1.00 8.00 ## a red towel hanging on the kitchen rack
+TR_0011 3.00 10.00 ## person looks around the living room
+TR_0012 2.00 7.50 ## person opens the refrigerator door
+TR_0013 6.00 11.20 ## person takes a glass from the cupboard
+TR_0014 10.50 16.80 ## person pours milk into the glass
+TR_0000 16.00 22.40 ## person sits down on the chair
+TR_0001 21.00 26.50 ## person drinks from the glass
+TR_0002 25.00 29.80 ## person stands up and walks away
+TR_0003 4.00 9.00 ## someone holds a book and smiles
+TR_0004 8.00 13.50 ## someone closes the wooden cabinet
+TR_0005 12.00 24.00 ## first person washes dishes and then wipes table
+TR_0006 15.00 19.50 ## person puts down the cup on the table
+TR_0007 1.00 8.00 ## a red towel hanging on the kitchen rack
+TR_0008 3.00 10.00 ## person looks around the living room
+TR_0009 2.00 7.50 ## person opens the refrigerator door
+TR_0010 6.00 11.20 ## person takes a glass from the cupboard
+TR_0011 10.50 16.80 ## person pours milk into the glass
+TR_0012 16.00 22.40 ## person sits down on the chair
+TR_0013 21.00 26.50 ## person drinks from the glass
+TR_0014 25.00 29.80 ## person stands up and walks away
+TR_0000 4.00 9.00 ## someone holds a book and smiles
+TR_0001 8.00 13.50 ## someone closes the wooden cabinet
+TR_0002 12.00 24.00 ## first person washes dishes and then wipes table
+TR_0003 15.00 19.50 ## person puts down the cup on the table
+TR_0004 1.00 8.00 ## a red towel hanging on the kitchen rack
+TR_0005 3.00 10.00 ## person looks around the living room
+TR_0006 2.00 7.50 ## person opens the refrigerator door
+TR_0007 6.00 11.20 ## person takes a glass from the cupboard
+TR_0008 10.50 16.80 ## person pours milk into the glass
+TR_0009 16.00 22.40 ## person sits down on the chair
+TR_0010 21.00 26.50 ## person drinks from the glass
+TR_0011 25.00 29.80 ## person stands up and walks away
+TR_0012 4.00 9.00 ## someone holds a book and smiles
+TR_0013 8.00 13.50 ## someone closes the wooden cabinet
+TR_0014 12.00 24.00 ## first person washes dishes and then wipes table
+TR_0000 15.00 19.50 ## person puts down the cup on the table
+TR_0001 1.00 8.00 ## a red towel hanging on the kitchen rack
+TR_0002 3.00 10.00 ## person looks around the living room
+TR_0003 2.00 7.50 ## person opens the refrigerator door
+TR_0004 6.00 11.20 ## person takes a glass from the cupboard
+TR_0005 10.50 16.80 ## person pours milk into the glass
+TR_0006 16.00 22.40 ## person sits down on the chair
+TR_0007 21.00 26.50 ## person drinks from the glass
+TR_0008 25.00 29.80 ## person stands up and walks away
+TR_0009 4.00 9.00 ## someone holds a book and smiles
+TR_0010 8.00 13.50 ## someone closes the wooden cabinet
+TR_0011 12.00 24.00 ## first person washes dishes and then wipes table
+TR_0012 15.00 19.50 ## person puts down the cup on the table
+TR_0013 1.00 8.00 ## a red towel hanging on the kitchen rack
+TR_0014 3.00 10.00 ## person looks around the living room

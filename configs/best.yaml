@@ -1,0 +1,32 @@
+# Frozen best configuration from validation grid search
+model:
+  name: "temporal_retrieval_net"
+  d_in: 512
+  d_hidden: 256
+  num_heads: 4
+  num_layers: 3
+  dropout: 0.1
+  max_seq_len: 128
+  pos_encoding: "sinusoidal"
+  fusion_type: "hadamard_cat"
+  cross_attention: false
+  heads:
+    relevance_dim: 1
+    boundary_smoothing_sigma: 1.5
+
+train:
+  exp_id: "best_frozen_model"
+  batch_size: 64
+  lr: 3.0e-4
+  weight_decay: 1.0e-4
+  max_epochs: 20
+  early_stop_patience: 5
+  grad_clip: 1.0
+  seed: 42
+  amp: true
+  loss_weights:
+    w_rel: 1.0
+    w_loc: 2.0
+    w_rank: 0.5
+  nms_threshold: 0.4
+  score_threshold: 0.2

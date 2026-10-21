@@ -1,0 +1,66 @@
+{
+  "train": {
+    "total_queries": 56,
+    "unique_videos": 14,
+    "mean_duration": 6.13,
+    "min_duration": 4.5,
+    "max_duration": 12.0,
+    "mean_query_words": 6.32,
+    "min_query_words": 5,
+    "max_query_words": 8,
+    "top_verbs": {
+      "open": 5,
+      "take": 5,
+      "sit": 5,
+      "drink": 5,
+      "hold": 5,
+      "close": 5,
+      "put": 5,
+      "red": 5,
+      "pour": 4,
+      "stand": 4,
+      "look": 4,
+      "wipe": 4
+    }
+  },
+  "val": {
+    "total_queries": 4,
+    "unique_videos": 1,
+    "mean_duration": 7.53,
+    "min_duration": 4.8,
+    "max_duration": 12.0,
+    "mean_query_words": 6.5,
+    "min_query_words": 6,
+    "max_query_words": 8,
+    "top_verbs": {
+      "wipe": 1,
+      "look": 1,
+      "pour": 1,
+      "stand": 1
+    }
+  },
+  "test": {
+    "total_queries": 40,
+    "unique_videos": 15,
+    "mean_duration": 6.19,
+    "min_duration": 4.5,
+    "max_duration": 12.0,
+    "mean_query_words": 6.3,
+    "min_query_words": 5,
+    "max_query_words": 8,
+    "top_verbs": {
+      "open": 4,
+      "take": 4,
+      "pour": 4,
+      "sit": 4,
+      "drink": 3,
+      "stand": 3,
+      "hold": 3,
+      "close": 3,
+      "wipe": 3,
+      "put": 3,
+      "red": 3,
+      "look": 3
+    }
+  }
+}

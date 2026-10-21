@@ -1,0 +1,9 @@
+index:
+  index_type: "IVF-PQ"
+  d_model: 512
+  nlist: 100
+  m: 16
+  nbits: 8
+  top_k: 20
+  chunk_duration_s: 16.0
+  hierarchical: true

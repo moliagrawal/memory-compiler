@@ -1,0 +1,506 @@
+[
+  {
+    "query_id": "TR_0000_2.00_7.50_0",
+    "video_id": "TR_0000",
+    "start": 2.0,
+    "end": 7.5,
+    "query": "person opens the refrigerator door",
+    "duration": null,
+    "verb": "open"
+  },
+  {
+    "query_id": "TR_0001_6.00_11.20_1",
+    "video_id": "TR_0001",
+    "start": 6.0,
+    "end": 11.2,
+    "query": "person takes a glass from the cupboard",
+    "duration": null,
+    "verb": "take"
+  },
+  {
+    "query_id": "TR_0002_10.50_16.80_2",
+    "video_id": "TR_0002",
+    "start": 10.5,
+    "end": 16.8,
+    "query": "person pours milk into the glass",
+    "duration": null,
+    "verb": "pour"
+  },
+  {
+    "query_id": "TR_0003_16.00_22.40_3",
+    "video_id": "TR_0003",
+    "start": 16.0,
+    "end": 22.4,
+    "query": "person sits down on the chair",
+    "duration": null,
+    "verb": "sit"
+  },
+  {
+    "query_id": "TR_0004_21.00_26.50_4",
+    "video_id": "TR_0004",
+    "start": 21.0,
+    "end": 26.5,
+    "query": "person drinks from the glass",
+    "duration": null,
+    "verb": "drink"
+  },
+  {
+    "query_id": "TR_0005_25.00_29.80_5",
+    "video_id": "TR_0005",
+    "start": 25.0,
+    "end": 29.8,
+    "query": "person stands up and walks away",
+    "duration": null,
+    "verb": "stand"
+  },
+  {
+    "query_id": "TR_0006_4.00_9.00_6",
+    "video_id": "TR_0006",
+    "start": 4.0,
+    "end": 9.0,
+    "query": "someone holds a book and smiles",
+    "duration": null,
+    "verb": "hold"
+  },
+  {
+    "query_id": "TR_0007_8.00_13.50_7",
+    "video_id": "TR_0007",
+    "start": 8.0,
+    "end": 13.5,
+    "query": "someone closes the wooden cabinet",
+    "duration": null,
+    "verb": "close"
+  },
+  {
+    "query_id": "TR_0009_15.00_19.50_9",
+    "video_id": "TR_0009",
+    "start": 15.0,
+    "end": 19.5,
+    "query": "person puts down the cup on the table",
+    "duration": null,
+    "verb": "put"
+  },
+  {
+    "query_id": "TR_0010_1.00_8.00_10",
+    "video_id": "TR_0010",
+    "start": 1.0,
+    "end": 8.0,
+    "query": "a red towel hanging on the kitchen rack",
+    "duration": null,
+    "verb": "red"
+  },
+  {
+    "query_id": "TR_0011_3.00_10.00_11",
+    "video_id": "TR_0011",
+    "start": 3.0,
+    "end": 10.0,
+    "query": "person looks around the living room",
+    "duration": null,
+    "verb": "look"
+  },
+  {
+    "query_id": "TR_0012_2.00_7.50_12",
+    "video_id": "TR_0012",
+    "start": 2.0,
+    "end": 7.5,
+    "query": "person opens the refrigerator door",
+    "duration": null,
+    "verb": "open"
+  },
+  {
+    "query_id": "TR_0013_6.00_11.20_13",
+    "video_id": "TR_0013",
+    "start": 6.0,
+    "end": 11.2,
+    "query": "person takes a glass from the cupboard",
+    "duration": null,
+    "verb": "take"
+  },
+  {
+    "query_id": "TR_0014_10.50_16.80_14",
+    "video_id": "TR_0014",
+    "start": 10.5,
+    "end": 16.8,
+    "query": "person pours milk into the glass",
+    "duration": null,
+    "verb": "pour"
+  },
+  {
+    "query_id": "TR_0000_16.00_22.40_15",
+    "video_id": "TR_0000",
+    "start": 16.0,
+    "end": 22.4,
+    "query": "person sits down on the chair",
+    "duration": null,
+    "verb": "sit"
+  },
+  {
+    "query_id": "TR_0001_21.00_26.50_16",
+    "video_id": "TR_0001",
+    "start": 21.0,
+    "end": 26.5,
+    "query": "person drinks from the glass",
+    "duration": null,
+    "verb": "drink"
+  },
+  {
+    "query_id": "TR_0002_25.00_29.80_17",
+    "video_id": "TR_0002",
+    "start": 25.0,
+    "end": 29.8,
+    "query": "person stands up and walks away",
+    "duration": null,
+    "verb": "stand"
+  },
+  {
+    "query_id": "TR_0003_4.00_9.00_18",
+    "video_id": "TR_0003",
+    "start": 4.0,
+    "end": 9.0,
+    "query": "someone holds a book and smiles",
+    "duration": null,
+    "verb": "hold"
+  },
+  {
+    "query_id": "TR_0004_8.00_13.50_19",
+    "video_id": "TR_0004",
+    "start": 8.0,
+    "end": 13.5,
+    "query": "someone closes the wooden cabinet",
+    "duration": null,
+    "verb": "close"
+  },
+  {
+    "query_id": "TR_0005_12.00_24.00_20",
+    "video_id": "TR_0005",
+    "start": 12.0,
+    "end": 24.0,
+    "query": "first person washes dishes and then wipes table",
+    "duration": null,
+    "verb": "wipe"
+  },
+  {
+    "query_id": "TR_0006_15.00_19.50_21",
+    "video_id": "TR_0006",
+    "start": 15.0,
+    "end": 19.5,
+    "query": "person puts down the cup on the table",
+    "duration": null,
+    "verb": "put"
+  },
+  {
+    "query_id": "TR_0007_1.00_8.00_22",
+    "video_id": "TR_0007",
+    "start": 1.0,
+    "end": 8.0,
+    "query": "a red towel hanging on the kitchen rack",
+    "duration": null,
+    "verb": "red"
+  },
+  {
+    "query_id": "TR_0009_2.00_7.50_24",
+    "video_id": "TR_0009",
+    "start": 2.0,
+    "end": 7.5,
+    "query": "person opens the refrigerator door",
+    "duration": null,
+    "verb": "open"
+  },
+  {
+    "query_id": "TR_0010_6.00_11.20_25",
+    "video_id": "TR_0010",
+    "start": 6.0,
+    "end": 11.2,
+    "query": "person takes a glass from the cupboard",
+    "duration": null,
+    "verb": "take"
+  },
+  {
+    "query_id": "TR_0011_10.50_16.80_26",
+    "video_id": "TR_0011",
+    "start": 10.5,
+    "end": 16.8,
+    "query": "person pours milk into the glass",
+    "duration": null,
+    "verb": "pour"
+  },
+  {
+    "query_id": "TR_0012_16.00_22.40_27",
+    "video_id": "TR_0012",
+    "start": 16.0,
+    "end": 22.4,
+    "query": "person sits down on the chair",
+    "duration": null,
+    "verb": "sit"
+  },
+  {
+    "query_id": "TR_0013_21.00_26.50_28",
+    "video_id": "TR_0013",
+    "start": 21.0,
+    "end": 26.5,
+    "query": "person drinks from the glass",
+    "duration": null,
+    "verb": "drink"
+  },
+  {
+    "query_id": "TR_0014_25.00_29.80_29",
+    "video_id": "TR_0014",
+    "start": 25.0,
+    "end": 29.8,
+    "query": "person stands up and walks away",
+    "duration": null,
+    "verb": "stand"
+  },
+  {
+    "query_id": "TR_0000_4.00_9.00_30",
+    "video_id": "TR_0000",
+    "start": 4.0,
+    "end": 9.0,
+    "query": "someone holds a book and smiles",
+    "duration": null,
+    "verb": "hold"
+  },
+  {
+    "query_id": "TR_0001_8.00_13.50_31",
+    "video_id": "TR_0001",
+    "start": 8.0,
+    "end": 13.5,
+    "query": "someone closes the wooden cabinet",
+    "duration": null,
+    "verb": "close"
+  },
+  {
+    "query_id": "TR_0002_12.00_24.00_32",
+    "video_id": "TR_0002",
+    "start": 12.0,
+    "end": 24.0,
+    "query": "first person washes dishes and then wipes table",
+    "duration": null,
+    "verb": "wipe"
+  },
+  {
+    "query_id": "TR_0003_15.00_19.50_33",
+    "video_id": "TR_0003",
+    "start": 15.0,
+    "end": 19.5,
+    "query": "person puts down the cup on the table",
+    "duration": null,
+    "verb": "put"
+  },
+  {
+    "query_id": "TR_0004_1.00_8.00_34",
+    "video_id": "TR_0004",
+    "start": 1.0,
+    "end": 8.0,
+    "query": "a red towel hanging on the kitchen rack",
+    "duration": null,
+    "verb": "red"
+  },
+  {
+    "query_id": "TR_0005_3.00_10.00_35",
+    "video_id": "TR_0005",
+    "start": 3.0,
+    "end": 10.0,
+    "query": "person looks around the living room",
+    "duration": null,
+    "verb": "look"
+  },
+  {
+    "query_id": "TR_0006_2.00_7.50_36",
+    "video_id": "TR_0006",
+    "start": 2.0,
+    "end": 7.5,
+    "query": "person opens the refrigerator door",
+    "duration": null,
+    "verb": "open"
+  },
+  {
+    "query_id": "TR_0007_6.00_11.20_37",
+    "video_id": "TR_0007",
+    "start": 6.0,
+    "end": 11.2,
+    "query": "person takes a glass from the cupboard",
+    "duration": null,
+    "verb": "take"
+  },
+  {
+    "query_id": "TR_0009_16.00_22.40_39",
+    "video_id": "TR_0009",
+    "start": 16.0,
+    "end": 22.4,
+    "query": "person sits down on the chair",
+    "duration": null,
+    "verb": "sit"
+  },
+  {
+    "query_id": "TR_0010_21.00_26.50_40",
+    "video_id": "TR_0010",
+    "start": 21.0,
+    "end": 26.5,
+    "query": "person drinks from the glass",
+    "duration": null,
+    "verb": "drink"
+  },
+  {
+    "query_id": "TR_0011_25.00_29.80_41",
+    "video_id": "TR_0011",
+    "start": 25.0,
+    "end": 29.8,
+    "query": "person stands up and walks away",
+    "duration": null,
+    "verb": "stand"
+  },
+  {
+    "query_id": "TR_0012_4.00_9.00_42",
+    "video_id": "TR_0012",
+    "start": 4.0,
+    "end": 9.0,
+    "query": "someone holds a book and smiles",
+    "duration": null,
+    "verb": "hold"
+  },
+  {
+    "query_id": "TR_0013_8.00_13.50_43",
+    "video_id": "TR_0013",
+    "start": 8.0,
+    "end": 13.5,
+    "query": "someone closes the wooden cabinet",
+    "duration": null,
+    "verb": "close"
+  },
+  {
+    "query_id": "TR_0014_12.00_24.00_44",
+    "video_id": "TR_0014",
+    "start": 12.0,
+    "end": 24.0,
+    "query": "first person washes dishes and then wipes table",
+    "duration": null,
+    "verb": "wipe"
+  },
+  {
+    "query_id": "TR_0000_15.00_19.50_45",
+    "video_id": "TR_0000",
+    "start": 15.0,
+    "end": 19.5,
+    "query": "person puts down the cup on the table",
+    "duration": null,
+    "verb": "put"
+  },
+  {
+    "query_id": "TR_0001_1.00_8.00_46",
+    "video_id": "TR_0001",
+    "start": 1.0,
+    "end": 8.0,
+    "query": "a red towel hanging on the kitchen rack",
+    "duration": null,
+    "verb": "red"
+  },
+  {
+    "query_id": "TR_0002_3.00_10.00_47",
+    "video_id": "TR_0002",
+    "start": 3.0,
+    "end": 10.0,
+    "query": "person looks around the living room",
+    "duration": null,
+    "verb": "look"
+  },
+  {
+    "query_id": "TR_0003_2.00_7.50_48",
+    "video_id": "TR_0003",
+    "start": 2.0,
+    "end": 7.5,
+    "query": "person opens the refrigerator door",
+    "duration": null,
+    "verb": "open"
+  },
+  {
+    "query_id": "TR_0004_6.00_11.20_49",
+    "video_id": "TR_0004",
+    "start": 6.0,
+    "end": 11.2,
+    "query": "person takes a glass from the cupboard",
+    "duration": null,
+    "verb": "take"
+  },
+  {
+    "query_id": "TR_0005_10.50_16.80_50",
+    "video_id": "TR_0005",
+    "start": 10.5,
+    "end": 16.8,
+    "query": "person pours milk into the glass",
+    "duration": null,
+    "verb": "pour"
+  },
+  {
+    "query_id": "TR_0006_16.00_22.40_51",
+    "video_id": "TR_0006",
+    "start": 16.0,
+    "end": 22.4,
+    "query": "person sits down on the chair",
+    "duration": null,
+    "verb": "sit"
+  },
+  {
+    "query_id": "TR_0007_21.00_26.50_52",
+    "video_id": "TR_0007",
+    "start": 21.0,
+    "end": 26.5,
+    "query": "person drinks from the glass",
+    "duration": null,
+    "verb": "drink"
+  },
+  {
+    "query_id": "TR_0009_4.00_9.00_54",
+    "video_id": "TR_0009",
+    "start": 4.0,
+    "end": 9.0,
+    "query": "someone holds a book and smiles",
+    "duration": null,
+    "verb": "hold"
+  },
+  {
+    "query_id": "TR_0010_8.00_13.50_55",
+    "video_id": "TR_0010",
+    "start": 8.0,
+    "end": 13.5,
+    "query": "someone closes the wooden cabinet",
+    "duration": null,
+    "verb": "close"
+  },
+  {
+    "query_id": "TR_0011_12.00_24.00_56",
+    "video_id": "TR_0011",
+    "start": 12.0,
+    "end": 24.0,
+    "query": "first person washes dishes and then wipes table",
+    "duration": null,
+    "verb": "wipe"
+  },
+  {
+    "query_id": "TR_0012_15.00_19.50_57",
+    "video_id": "TR_0012",
+    "start": 15.0,
+    "end": 19.5,
+    "query": "person puts down the cup on the table",
+    "duration": null,
+    "verb": "put"
+  },
+  {
+    "query_id": "TR_0013_1.00_8.00_58",
+    "video_id": "TR_0013",
+    "start": 1.0,
+    "end": 8.0,
+    "query": "a red towel hanging on the kitchen rack",
+    "duration": null,
+    "verb": "red"
+  },
+  {
+    "query_id": "TR_0014_3.00_10.00_59",
+    "video_id": "TR_0014",
+    "start": 3.0,
+    "end": 10.0,
+    "query": "person looks around the living room",
+    "duration": null,
+    "verb": "look"
+  }
+]

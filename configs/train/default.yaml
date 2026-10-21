@@ -1,0 +1,17 @@
+train:
+  exp_id: "exp_b3_default"
+  batch_size: 64
+  lr: 3.0e-4
+  weight_decay: 1.0e-4
+  max_epochs: 20
+  early_stop_patience: 4
+  grad_clip: 1.0
+  seed: 42
+  amp: true
+  device: "cuda"
+  loss_weights:
+    w_rel: 1.0
+    w_loc: 2.0
+    w_rank: 0.5
+  nms_threshold: 0.4
+  score_threshold: 0.2

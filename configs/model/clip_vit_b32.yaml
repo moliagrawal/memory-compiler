@@ -1,0 +1,12 @@
+model:
+  encoder_id: "clip_b32"
+  hf_name: "openai/clip-vit-base-patch32"
+  precision: "fp16"
+  d_model: 512
+  batch_size: 64
+  device: "cuda"
+  micro_batch: 8
+  grad_checkpointing: true
+  lora_r: 8
+  lora_alpha: 16
+  vision_last_blocks: 4

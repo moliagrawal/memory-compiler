@@ -1,0 +1,37 @@
+ablations:
+  A1:
+    name: "no_temporal_transformer"
+    desc: "MLP over frames instead of temporal Transformer"
+    use_transformer: false
+  A2:
+    name: "no_query_conditioned_fusion"
+    desc: "Cosine similarity dot product without non-linear fusion MLP"
+    fusion_type: "cosine"
+  A3:
+    name: "no_boundary_head"
+    desc: "Relevance score only, heuristic threshold window without learned boundary heads"
+    use_boundary_head: false
+  A4:
+    name: "no_hard_negatives"
+    desc: "Random negative sampling without hard negative ranking loss"
+    use_hard_negatives: false
+  A5:
+    name: "no_lora"
+    desc: "Frozen base CLIP embeddings without domain LoRA adapter"
+    use_lora: false
+  A6:
+    name: "no_object_features"
+    desc: "Frame CLIP embeddings only without pooled YOLO object detections"
+    use_object_feats: false
+  A7:
+    name: "no_hierarchical_retrieval"
+    desc: "Exhaustive flat frame search instead of coarse-to-fine chunk retrieval"
+    hierarchical: false
+  A8_05:
+    name: "sampling_0.5fps"
+    desc: "Temporal sampling rate at 0.5 fps"
+    fps: 0.5
+  A8_20:
+    name: "sampling_2.0fps"
+    desc: "Temporal sampling rate at 2.0 fps"
+    fps: 2.0

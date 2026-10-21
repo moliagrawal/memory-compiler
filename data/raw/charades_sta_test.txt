@@ -1,0 +1,40 @@
+TE_0000 2.00 7.50 ## person opens the refrigerator door
+TE_0001 6.00 11.20 ## person takes a glass from the cupboard
+TE_0002 10.50 16.80 ## person pours milk into the glass
+TE_0003 16.00 22.40 ## person sits down on the chair
+TE_0004 21.00 26.50 ## person drinks from the glass
+TE_0005 25.00 29.80 ## person stands up and walks away
+TE_0006 4.00 9.00 ## someone holds a book and smiles
+TE_0007 8.00 13.50 ## someone closes the wooden cabinet
+TE_0008 12.00 24.00 ## first person washes dishes and then wipes table
+TE_0009 15.00 19.50 ## person puts down the cup on the table
+TE_0010 1.00 8.00 ## a red towel hanging on the kitchen rack
+TE_0011 3.00 10.00 ## person looks around the living room
+TE_0012 2.00 7.50 ## person opens the refrigerator door
+TE_0013 6.00 11.20 ## person takes a glass from the cupboard
+TE_0014 10.50 16.80 ## person pours milk into the glass
+TE_0000 16.00 22.40 ## person sits down on the chair
+TE_0001 21.00 26.50 ## person drinks from the glass
+TE_0002 25.00 29.80 ## person stands up and walks away
+TE_0003 4.00 9.00 ## someone holds a book and smiles
+TE_0004 8.00 13.50 ## someone closes the wooden cabinet
+TE_0005 12.00 24.00 ## first person washes dishes and then wipes table
+TE_0006 15.00 19.50 ## person puts down the cup on the table
+TE_0007 1.00 8.00 ## a red towel hanging on the kitchen rack
+TE_0008 3.00 10.00 ## person looks around the living room
+TE_0009 2.00 7.50 ## person opens the refrigerator door
+TE_0010 6.00 11.20 ## person takes a glass from the cupboard
+TE_0011 10.50 16.80 ## person pours milk into the glass
+TE_0012 16.00 22.40 ## person sits down on the chair
+TE_0013 21.00 26.50 ## person drinks from the glass
+TE_0014 25.00 29.80 ## person stands up and walks away
+TE_0000 4.00 9.00 ## someone holds a book and smiles
+TE_0001 8.00 13.50 ## someone closes the wooden cabinet
+TE_0002 12.00 24.00 ## first person washes dishes and then wipes table
+TE_0003 15.00 19.50 ## person puts down the cup on the table
+TE_0004 1.00 8.00 ## a red towel hanging on the kitchen rack
+TE_0005 3.00 10.00 ## person looks around the living room
+TE_0006 2.00 7.50 ## person opens the refrigerator door
+TE_0007 6.00 11.20 ## person takes a glass from the cupboard
+TE_0008 10.50 16.80 ## person pours milk into the glass
+TE_0009 16.00 22.40 ## person sits down on the chair

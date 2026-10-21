@@ -1,0 +1,11 @@
+data:
+  dataset_name: "charades_sta"
+  raw_video_dir: "data/raw/Charades_v1_480"
+  train_annotations: "data/raw/charades_sta_train.txt"
+  test_annotations: "data/raw/charades_sta_test.txt"
+  processed_dir: "data/processed"
+  feature_cache_dir: "data/features"
+  fps: 1.0
+  val_ratio: 0.10
+  seed: 42
+  max_duration: 180.0

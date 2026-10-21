@@ -1,0 +1,12 @@
+{
+  "num_queries": 4,
+  "mIoU": 0.0357,
+  "R@1_tiou@0.3": 0.0,
+  "R@1_tiou@0.5": 0.0,
+  "R@1_tiou@0.7": 0.0,
+  "R@5_tiou@0.3": 0.25,
+  "R@5_tiou@0.5": 0.0,
+  "R@5_tiou@0.7": 0.0,
+  "peak_vram_mb": 362.56,
+  "vram_safe": true
+}

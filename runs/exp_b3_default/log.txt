@@ -1,0 +1,18 @@
+2026-10-21 08:45:56 - Initialized experiment: exp_b3_default on cuda
+2026-10-21 08:45:56 - Starting training: 20 epochs, 56 train samples, 0 val samples
+2026-10-21 08:45:58 - Epoch 01/20 - Loss: 547.1255 - Val R@1@0.5: 0.0000 - mIoU: 0.0000 - Time: 2.04s
+2026-10-21 08:45:58 - Epoch 02/20 - Loss: 546.6508 - Val R@1@0.5: 0.0000 - mIoU: 0.0000 - Time: 0.12s
+2026-10-21 08:45:58 - Epoch 03/20 - Loss: 546.5151 - Val R@1@0.5: 0.0000 - mIoU: 0.0000 - Time: 0.09s
+2026-10-21 08:45:58 - Epoch 04/20 - Loss: 546.4033 - Val R@1@0.5: 0.0000 - mIoU: 0.0000 - Time: 0.08s
+2026-10-21 08:45:58 - Epoch 05/20 - Loss: 546.2599 - Val R@1@0.5: 0.0000 - mIoU: 0.0000 - Time: 0.12s
+2026-10-21 08:45:58 - Early stopping triggered at epoch 5
+2026-10-21 08:45:58 - Run completed. Peak VRAM: 362.56 MB (Safe: True)
+2026-10-21 08:46:57 - Initialized experiment: exp_b3_default on cuda
+2026-10-21 08:46:57 - Starting training: 20 epochs, 56 train samples, 4 val samples
+2026-10-21 08:46:59 - Epoch 01/20 - Loss: 547.1255 - Val R@1@0.5: 0.0000 - mIoU: 0.0357 - Time: 1.77s
+2026-10-21 08:46:59 - Epoch 02/20 - Loss: 546.6508 - Val R@1@0.5: 0.0000 - mIoU: 0.0357 - Time: 0.17s
+2026-10-21 08:46:59 - Epoch 03/20 - Loss: 546.5151 - Val R@1@0.5: 0.0000 - mIoU: 0.0357 - Time: 0.10s
+2026-10-21 08:46:59 - Epoch 04/20 - Loss: 546.4033 - Val R@1@0.5: 0.0000 - mIoU: 0.0357 - Time: 0.11s
+2026-10-21 08:46:59 - Epoch 05/20 - Loss: 546.2599 - Val R@1@0.5: 0.0000 - mIoU: 0.0714 - Time: 0.15s
+2026-10-21 08:46:59 - Early stopping triggered at epoch 5
+2026-10-21 08:46:59 - Run completed. Peak VRAM: 362.56 MB (Safe: True)

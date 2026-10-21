@@ -1,0 +1,31 @@
+model:
+  cross_attention: false
+  d_hidden: 256
+  d_in: 512
+  dropout: 0.1
+  fusion_type: hadamard_cat
+  heads:
+    boundary_smoothing_sigma: 1.5
+    relevance_dim: 1
+  max_seq_len: 128
+  name: temporal_retrieval_net
+  num_heads: 4
+  num_layers: 3
+  pos_encoding: sinusoidal
+train:
+  amp: true
+  batch_size: 64
+  device: cuda
+  early_stop_patience: 4
+  exp_id: exp_b3_default
+  grad_clip: 1.0
+  loss_weights:
+    w_loc: 2.0
+    w_rank: 0.5
+    w_rel: 1.0
+  lr: 0.0003
+  max_epochs: 20
+  nms_threshold: 0.4
+  score_threshold: 0.2
+  seed: 42
+  weight_decay: 0.0001

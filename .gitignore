@@ -1,0 +1,11 @@
+__pycache__/
+*.py[cod]
+*$py.class
+*.egg-info/
+.pytest_cache/
+app/node_modules/
+app/dist/
+data/raw/*.mp4
+data/raw/*.mkv
+data/raw/*.webm
+.DS_Store

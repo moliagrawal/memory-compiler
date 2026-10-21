@@ -1,0 +1,38 @@
+[
+  {
+    "query_id": "TR_0008_12.00_24.00_8",
+    "video_id": "TR_0008",
+    "start": 12.0,
+    "end": 24.0,
+    "query": "first person washes dishes and then wipes table",
+    "duration": null,
+    "verb": "wipe"
+  },
+  {
+    "query_id": "TR_0008_3.00_10.00_23",
+    "video_id": "TR_0008",
+    "start": 3.0,
+    "end": 10.0,
+    "query": "person looks around the living room",
+    "duration": null,
+    "verb": "look"
+  },
+  {
+    "query_id": "TR_0008_10.50_16.80_38",
+    "video_id": "TR_0008",
+    "start": 10.5,
+    "end": 16.8,
+    "query": "person pours milk into the glass",
+    "duration": null,
+    "verb": "pour"
+  },
+  {
+    "query_id": "TR_0008_25.00_29.80_53",
+    "video_id": "TR_0008",
+    "start": 25.0,
+    "end": 29.8,
+    "query": "person stands up and walks away",
+    "duration": null,
+    "verb": "stand"
+  }
+]
