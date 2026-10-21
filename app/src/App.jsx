@@ -100,6 +100,8 @@ export default function App() {
     setCurrentTime(seconds);
     if (videoRef.current) {
       videoRef.current.currentTime = seconds;
+      videoRef.current.play().catch(() => {});
+      setIsPlaying(true);
     }
   };
 
@@ -268,7 +270,7 @@ export default function App() {
               <div style={{
                 position: 'relative',
                 width: '100%',
-                height: '320px',
+                height: '340px',
                 background: '#040711',
                 borderRadius: 'var(--radius-md)',
                 overflow: 'hidden',
@@ -276,49 +278,43 @@ export default function App() {
                 flexDirection: 'column',
                 justifyContent: 'center',
                 alignItems: 'center',
-                border: '1px solid rgba(255,255,255,0.06)'
+                border: '1px solid rgba(255,255,255,0.08)'
               }}>
-                {/* Simulated video playback canvas */}
-                <div style={{ textAlign: 'center' }}>
-                  <div style={{
-                    width: '64px',
-                    height: '64px',
-                    borderRadius: '50%',
-                    background: 'rgba(99, 102, 241, 0.2)',
-                    display: 'flex',
-                    alignItems: 'center',
-                    justifyContent: 'center',
-                    margin: '0 auto 12px auto',
-                    cursor: 'pointer'
-                  }} onClick={togglePlay}>
-                    {isPlaying ? <Pause size={28} color="#818cf8" /> : <Play size={28} color="#818cf8" style={{ marginLeft: '4px' }} />}
-                  </div>
-                  <div style={{ fontSize: '15px', fontWeight: '600', color: '#f8fafc' }}>
-                    {selectedVideo}.mp4
-                  </div>
-                  <div style={{ fontSize: '13px', color: 'var(--text-secondary)', marginTop: '4px', fontFamily: 'var(--font-mono)' }}>
-                    Current Time: {currentTime.toFixed(1)}s / {duration.toFixed(1)}s
-                  </div>
-                </div>
+                <video
+                  ref={videoRef}
+                  src={`/videos/${selectedVideo}.mp4`}
+                  onTimeUpdate={() => {
+                    if (videoRef.current) setCurrentTime(videoRef.current.currentTime);
+                  }}
+                  onLoadedMetadata={() => {
+                    if (videoRef.current) setDuration(videoRef.current.duration || 30.0);
+                  }}
+                  onPlay={() => setIsPlaying(true)}
+                  onPause={() => setIsPlaying(false)}
+                  controls
+                  style={{ width: '100%', height: '100%', objectFit: 'contain' }}
+                />
 
                 {/* Subtitle / Grounding Active Overlay */}
                 {results?.primary_predictions?.length > 0 && (
                   <div style={{
                     position: 'absolute',
-                    bottom: '16px',
-                    background: 'rgba(0, 0, 0, 0.75)',
+                    top: '16px',
+                    right: '16px',
+                    background: 'rgba(0, 0, 0, 0.8)',
                     backdropFilter: 'blur(8px)',
-                    padding: '8px 18px',
+                    padding: '6px 14px',
                     borderRadius: '20px',
-                    border: '1px solid rgba(99,102,241,0.4)',
+                    border: '1px solid rgba(99,102,241,0.5)',
                     fontSize: '12px',
                     color: '#c7d2fe',
                     display: 'flex',
                     alignItems: 'center',
-                    gap: '8px'
+                    gap: '6px',
+                    pointerEvents: 'none'
                   }}>
                     <Sparkles size={14} color="#a855f7" />
-                    Top Prediction: {results.primary_predictions[0].start}s – {results.primary_predictions[0].end}s (Confidence: {(results.primary_predictions[0].score * 100).toFixed(1)}%)
+                    Top Moment: {results.primary_predictions[0].start}s – {results.primary_predictions[0].end}s
                   </div>
                 )}
               </div>

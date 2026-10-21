@@ -46,6 +46,7 @@ reranker = None
 
 RAW_VIDEO_DIR = "data/raw/Charades_v1_480"
 os.makedirs(RAW_VIDEO_DIR, exist_ok=True)
+app.mount("/videos", StaticFiles(directory=RAW_VIDEO_DIR), name="videos")
 
 
 def get_components():
